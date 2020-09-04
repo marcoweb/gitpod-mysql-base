@@ -1,6 +1,2 @@
 image: gitpod/workspace-mysql
 
-tasks:
-  - init: 'echo "TODO: Replace with init/build command"'
-    command: 'echo "TODO: Replace with command to start project"'
-
