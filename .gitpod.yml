@@ -4,6 +4,3 @@ tasks:
   - init: 'echo "TODO: Replace with init/build command"'
     command: 'echo "TODO: Replace with command to start project"'
 
-vscode:
-  extensions:
-    - cweijan.vscode-mysql-client2@2.2.3:our4WD4lUWEDfMflFInMSw==
